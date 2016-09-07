@@ -5,5 +5,5 @@ Project explaining how use [featured] library with MVP. More on our [blog].
 
 
 
-[blog]: http://www.reddit.com
+[blog]: http://www.thedroidsonroids.com/blog/android/handle-featured-mvp-simple-android-app/
 [featured]: https://github.com/beworker/featured
